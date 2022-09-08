@@ -1,9 +1,8 @@
 ## Hello World! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-karinazhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-zhang/)](https://www.linkedin.com/in/karina-zhang/) 
 [![Gmail Badge](https://img.shields.io/badge/-karinazhang1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karinazhang1@gmail.com)](mailto:karinazhang1@gmail.com)
-- 🎓 I'm a rising junior studying computer science at New York University
-- 📱  I volunteer with Develop For Good as a software engineer
-- 🌱 I’m currently learning React
+- 🎓 In my last semester (woot woot!) studying computer science at New York University
+- 🌱 I’m currently learning Android development
 - 🎵 I love learning new instruments
 - 😄 Pronouns: she/her
  
